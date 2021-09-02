@@ -1,6 +1,6 @@
 {
-  "name": "react-jsonschema-form",
-  "version": "1.8.0",
+  "name": "agriyadev5-react-jsonschema-form",
+  "version": "1.8.1",
   "description": "A simple React component capable of building HTML forms out of a JSON schema.",
   "scripts": {
     "build:lib": "rimraf lib && cross-env NODE_ENV=production babel -d lib/ src/",
@@ -95,7 +95,7 @@
     "loader-utils": "^1.2.3",
     "mini-css-extract-plugin": "^0.4.3",
     "mocha": "^5.2.0",
-    "monaco-editor-webpack-plugin": "^1.7.0",
+    "monaco-editor-webpack-plugin": "1.7.0",
     "nyc": "^13.2.0",
     "prettier": "^1.15.1",
     "react": "^16.9.0",
